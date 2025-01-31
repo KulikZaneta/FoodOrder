@@ -58,6 +58,3 @@ To run the project, follow these steps:
 - Add more cuisines 🍜 (e.g., Chinese, Indian 🇨🇳, 🇮🇳).
 - Extend customization options for drinks 🍹 (e.g., sugar, milk 🥛).
 - Support discounts 💸 or meal bundles 🍱.
-
-## 📄 SQL Task
-A file named Task2.sql has been added to the project under the repository path.
